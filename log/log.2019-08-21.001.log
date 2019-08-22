@@ -1,0 +1,87 @@
+2019/08/20 09:19:42.983 [D] [controller.go:306]  template Execute err: template: double/about.html:12:46: executing "double/about.html" at <.options.myworkdesc>: invalid value; expected string
+2019/08/20 09:19:42.983 [E] [server.go:2619]  template: double/about.html:12:46: executing "double/about.html" at <.options.myworkdesc>: invalid value; expected string
+2019/08/20 09:20:25.657 [D] [controller.go:306]  template Execute err: template: double/about.html:12:46: executing "double/about.html" at <.options.myworkdesc>: invalid value; expected string
+2019/08/20 09:20:25.657 [E] [server.go:2619]  template: double/about.html:12:46: executing "double/about.html" at <.options.myworkdesc>: invalid value; expected string
+2019/08/20 10:02:56.885 [I] [asm_amd64.s:2337]  http server Running on http://127.0.0.1:8088
+2019/08/20 10:02:56.886 [I] [asm_amd64.s:2337]  http server Running on http://127.0.0.1:8088
+2019/08/20 10:02:56.887 [C] [asm_amd64.s:2337]  ListenAndServe:  listen tcp 127.0.0.1:8088: bind: address already in use
+2019/08/20 10:06:55.361 [I] [asm_amd64.s:2337]  http server Running on http://127.0.0.1:8088
+2019/08/20 10:06:55.361 [I] [asm_amd64.s:2337]  http server Running on http://127.0.0.1:8088
+2019/08/20 10:06:55.361 [C] [asm_amd64.s:2337]  ListenAndServe:  listen tcp 127.0.0.1:8088: bind: address already in use
+2019/08/20 10:10:22.141 [I] [asm_amd64.s:2337]  http server Running on http://127.0.0.1:8088
+2019/08/20 10:10:22.141 [I] [asm_amd64.s:2337]  http server Running on http://127.0.0.1:8088
+2019/08/20 10:10:22.141 [C] [asm_amd64.s:2337]  ListenAndServe:  listen tcp 127.0.0.1:8088: bind: address already in use
+2019/08/20 10:21:45.731 [I] [asm_amd64.s:2337]  http server Running on http://127.0.0.1:8088
+2019/08/20 10:21:45.731 [I] [asm_amd64.s:2337]  http server Running on http://127.0.0.1:8088
+2019/08/20 10:21:45.731 [C] [asm_amd64.s:2337]  ListenAndServe:  listen tcp 127.0.0.1:8088: bind: address already in use
+2019/08/20 10:22:20.048 [I] [asm_amd64.s:2337]  http server Running on http://127.0.0.1:8088
+2019/08/20 10:22:20.048 [I] [asm_amd64.s:2337]  http server Running on http://127.0.0.1:8088
+2019/08/20 10:22:20.049 [C] [asm_amd64.s:2337]  ListenAndServe:  listen tcp 127.0.0.1:8088: bind: address already in use
+2019/08/20 11:06:55.088 [I] [asm_amd64.s:2337]  http server Running on http://127.0.0.1:8088
+2019/08/20 11:06:55.088 [I] [asm_amd64.s:2337]  http server Running on http://127.0.0.1:8088
+2019/08/20 11:06:55.088 [C] [asm_amd64.s:2337]  ListenAndServe:  listen tcp 127.0.0.1:8088: bind: address already in use
+2019/08/20 11:11:37.602 [I] [asm_amd64.s:2337]  http server Running on http://127.0.0.1:8088
+2019/08/20 11:11:37.603 [I] [asm_amd64.s:2337]  http server Running on http://127.0.0.1:8088
+2019/08/20 11:11:37.603 [C] [asm_amd64.s:2337]  ListenAndServe:  listen tcp 127.0.0.1:8088: bind: address already in use
+2019/08/20 11:14:44.271 [I] [asm_amd64.s:2337]  http server Running on http://127.0.0.1:8088
+2019/08/20 11:14:44.271 [I] [asm_amd64.s:2337]  http server Running on http://127.0.0.1:8088
+2019/08/20 11:14:44.271 [C] [asm_amd64.s:2337]  ListenAndServe:  listen tcp 127.0.0.1:8088: bind: address already in use
+2019/08/20 11:16:33.395 [I] [asm_amd64.s:2337]  http server Running on http://127.0.0.1:8088
+2019/08/20 11:16:33.395 [C] [asm_amd64.s:2337]  ListenAndServe:  listen tcp 127.0.0.1:8088: bind: address already in use
+2019/08/20 11:16:33.447 [I] [asm_amd64.s:2337]  http server Running on http://127.0.0.1:8088
+2019/08/20 14:12:17.056 [D] [controller.go:306]  template Execute err: template: double/about.html:12:46: executing "double/about.html" at <.options.myworkdesc>: invalid value; expected string
+2019/08/20 14:12:17.058 [E] [server.go:2619]  template: double/about.html:12:46: executing "double/about.html" at <.options.myworkdesc>: invalid value; expected string
+2019/08/20 14:36:03.024 [D] [controller.go:306]  template Execute err: template: double/about.html:12:46: executing "double/about.html" at <.options.myworkdesc>: invalid value; expected string
+2019/08/20 14:36:03.024 [E] [server.go:2619]  template: double/about.html:12:46: executing "double/about.html" at <.options.myworkdesc>: invalid value; expected string
+2019/08/20 14:36:06.334 [D] [controller.go:306]  template Execute err: template: double/about.html:12:46: executing "double/about.html" at <.options.myworkdesc>: invalid value; expected string
+2019/08/20 14:36:06.334 [E] [server.go:2619]  template: double/about.html:12:46: executing "double/about.html" at <.options.myworkdesc>: invalid value; expected string
+2019/08/20 14:36:15.640 [D] [controller.go:306]  template Execute err: template: double/about.html:12:46: executing "double/about.html" at <.options.myworkdesc>: invalid value; expected string
+2019/08/20 14:36:15.640 [E] [server.go:2619]  template: double/about.html:12:46: executing "double/about.html" at <.options.myworkdesc>: invalid value; expected string
+2019/08/20 14:36:19.935 [D] [controller.go:306]  template Execute err: template: double/about.html:12:46: executing "double/about.html" at <.options.myworkdesc>: invalid value; expected string
+2019/08/20 14:36:19.935 [E] [server.go:2619]  template: double/about.html:12:46: executing "double/about.html" at <.options.myworkdesc>: invalid value; expected string
+2019/08/20 14:42:04.493 [D] [controller.go:306]  template Execute err: template: double/about.html:12:46: executing "double/about.html" at <.options.myworkdesc>: invalid value; expected string
+2019/08/20 14:42:04.493 [E] [server.go:2619]  template: double/about.html:12:46: executing "double/about.html" at <.options.myworkdesc>: invalid value; expected string
+2019/08/20 14:47:14.508 [D] [controller.go:306]  template Execute err: template: double/about.html:12:46: executing "double/about.html" at <.options.myworkdesc>: invalid value; expected string
+2019/08/20 14:47:14.508 [E] [server.go:2619]  template: double/about.html:12:46: executing "double/about.html" at <.options.myworkdesc>: invalid value; expected string
+2019/08/20 14:47:26.436 [D] [controller.go:306]  template Execute err: template: double/about.html:12:46: executing "double/about.html" at <.options.myworkdesc>: invalid value; expected string
+2019/08/20 14:47:26.436 [E] [server.go:2619]  template: double/about.html:12:46: executing "double/about.html" at <.options.myworkdesc>: invalid value; expected string
+2019/08/20 14:56:46.369 [D] [controller.go:306]  template Execute err: template: double/about.html:12:46: executing "double/about.html" at <.options.myworkdesc>: invalid value; expected string
+2019/08/20 14:56:46.369 [E] [server.go:2619]  template: double/about.html:12:46: executing "double/about.html" at <.options.myworkdesc>: invalid value; expected string
+2019/08/20 14:57:01.102 [D] [controller.go:306]  template Execute err: template: double/about.html:12:46: executing "double/about.html" at <.options.myworkdesc>: invalid value; expected string
+2019/08/20 14:57:01.102 [E] [server.go:2619]  template: double/about.html:12:46: executing "double/about.html" at <.options.myworkdesc>: invalid value; expected string
+2019/08/20 15:24:50.237 [D] [controller.go:306]  template Execute err: template: double/about.html:12:46: executing "double/about.html" at <.options.myworkdesc>: invalid value; expected string
+2019/08/20 15:24:50.237 [E] [server.go:2619]  template: double/about.html:12:46: executing "double/about.html" at <.options.myworkdesc>: invalid value; expected string
+2019/08/20 15:24:58.382 [D] [controller.go:306]  template Execute err: template: double/about.html:12:46: executing "double/about.html" at <.options.myworkdesc>: invalid value; expected string
+2019/08/20 15:24:58.382 [E] [server.go:2619]  template: double/about.html:12:46: executing "double/about.html" at <.options.myworkdesc>: invalid value; expected string
+2019/08/20 15:38:24.429 [D] [controller.go:306]  template Execute err: template: double/about.html:12:46: executing "double/about.html" at <.options.myworkdesc>: invalid value; expected string
+2019/08/20 15:38:24.429 [E] [server.go:2619]  template: double/about.html:12:46: executing "double/about.html" at <.options.myworkdesc>: invalid value; expected string
+2019/08/20 15:39:54.701 [I] [asm_amd64.s:2337]  http server Running on http://127.0.0.1:8089
+2019/08/20 15:42:17.739 [I] [asm_amd64.s:2337]  http server Running on http://127.0.0.1:8089
+2019/08/20 15:42:17.832 [I] [asm_amd64.s:2337]  http server Running on http://127.0.0.1:8089
+2019/08/20 15:42:17.832 [C] [asm_amd64.s:2337]  ListenAndServe:  listen tcp 127.0.0.1:8089: bind: address already in use
+2019/08/20 15:43:12.327 [I] [asm_amd64.s:2337]  http server Running on http://127.0.0.1:8089
+2019/08/20 15:43:12.327 [C] [asm_amd64.s:2337]  ListenAndServe:  listen tcp 127.0.0.1:8089: bind: address already in use
+2019/08/20 15:43:16.482 [I] [asm_amd64.s:2337]  http server Running on http://127.0.0.1:8089
+2019/08/20 15:43:16.482 [C] [asm_amd64.s:2337]  ListenAndServe:  listen tcp 127.0.0.1:8089: bind: address already in use
+2019/08/20 15:43:36.269 [I] [asm_amd64.s:2337]  http server Running on http://127.0.0.1:8087
+2019/08/20 15:46:22.467 [I] [asm_amd64.s:2337]  http server Running on http://127.0.0.1:8087
+2019/08/20 15:46:22.473 [I] [asm_amd64.s:2337]  http server Running on http://127.0.0.1:8087
+2019/08/20 15:46:22.473 [C] [asm_amd64.s:2337]  ListenAndServe:  listen tcp 127.0.0.1:8087: bind: address already in use
+2019/08/20 15:54:14.050 [D] [controller.go:306]  template Execute err: template: double/about.html:12:46: executing "double/about.html" at <.options.myworkdesc>: invalid value; expected string
+2019/08/20 15:54:14.051 [E] [server.go:2619]  template: double/about.html:12:46: executing "double/about.html" at <.options.myworkdesc>: invalid value; expected string
+2019/08/20 15:54:22.516 [D] [controller.go:306]  template Execute err: template: double/about.html:12:46: executing "double/about.html" at <.options.myworkdesc>: invalid value; expected string
+2019/08/20 15:54:22.516 [E] [server.go:2619]  template: double/about.html:12:46: executing "double/about.html" at <.options.myworkdesc>: invalid value; expected string
+2019/08/20 15:54:24.785 [D] [controller.go:306]  template Execute err: template: double/about.html:12:46: executing "double/about.html" at <.options.myworkdesc>: invalid value; expected string
+2019/08/20 15:54:24.785 [E] [server.go:2619]  template: double/about.html:12:46: executing "double/about.html" at <.options.myworkdesc>: invalid value; expected string
+2019/08/20 15:59:39.416 [D] [controller.go:306]  template Execute err: template: double/about.html:12:46: executing "double/about.html" at <.options.myworkdesc>: invalid value; expected string
+2019/08/20 15:59:39.416 [E] [server.go:2619]  template: double/about.html:12:46: executing "double/about.html" at <.options.myworkdesc>: invalid value; expected string
+2019/08/20 16:13:03.945 [I] [asm_amd64.s:2337]  http server Running on http://127.0.0.1:80
+2019/08/20 16:13:03.945 [C] [asm_amd64.s:2337]  ListenAndServe:  listen tcp 127.0.0.1:80: bind: permission denied
+2019/08/20 16:13:43.493 [I] [asm_amd64.s:2337]  http server Running on http://127.0.0.1:8089
+2019/08/20 16:58:29.153 [I] [asm_amd64.s:2337]  http server Running on http://127.0.0.1:8089
+2019/08/20 16:59:20.598 [I] [asm_amd64.s:2337]  http server Running on http://127.0.0.1:8089
+2019/08/20 17:06:26.135 [I] [asm_amd64.s:2337]  http server Running on http://127.0.0.1:8089
+2019/08/20 17:17:42.148 [I] [asm_amd64.s:2337]  http server Running on http://127.0.0.1:8089
+2019/08/20 18:00:48.469 [I] [asm_amd64.s:2337]  http server Running on http://127.0.0.1:8089
+2019/08/20 18:01:16.173 [D] [controller.go:306]  template Execute err: template: double/about.html:12:46: executing "double/about.html" at <.options.myworkdesc>: invalid value; expected string
+2019/08/20 18:01:16.173 [E] [server.go:2619]  template: double/about.html:12:46: executing "double/about.html" at <.options.myworkdesc>: invalid value; expected string
